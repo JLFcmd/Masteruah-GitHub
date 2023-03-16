@@ -1,23 +1,3 @@
+p { color: #0000FF; background-color: red ; font-size: 200%; } body { background-color: green; }
 
-<html>
-<head>
-
-  <style> p { color: #0000FF;
-  background-color: red	;
-  
- font-size: 200%;
-}
-
-body {
-  background-color: green;
-  
-}</style>
-</head>
-<body>
-
-
-<p class="lw">Esta es la pagina de Index.md para la organización</p>
-
-
-</body>
-</html>
+Esta es la pagina de Index.md para la organización
