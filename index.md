@@ -1,16 +1,7 @@
 <html>
 <head>
 
-  <style> p { color: #0000FF;
-  background-color: red	;
-  
- font-size: 200%;
-}
-
-body {
-  background-color: green;
-  
-}</style>
+ 
 </head>
 <body>
 
