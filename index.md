@@ -11,7 +11,8 @@
 body {
   background-color: green;
   
-}</style>
+}
+  </style>
 </head>
 <body>
 
