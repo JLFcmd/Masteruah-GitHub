@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+
 <html>
 <head>
-<title>HTML, CSS and JavaScript demo</title>
+
   <style> p { color: #0000FF;
   background-color: red	;
   
